@@ -29,7 +29,7 @@ This project aims to perform sentiment analysis on Kindle book reviews using var
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kindle-sentiment-analysis.git
+   git clone https://github.com/Asaha9345/kindle_sentiment_analysis.git
    ```
 2. Install the required libraries:
    ```bash
@@ -61,13 +61,10 @@ The dataset is included in the project and consists of Kindle book reviews with 
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **NLTK** for providing powerful text processing tools.
 - **scikit-learn** for its comprehensive machine learning algorithms.
 - **gensim** for its robust implementation of Word2Vec.
 - **Google Colab** for providing an accessible environment to run the project.
+- **Krish Naik** for the amezing explanation about the things.
