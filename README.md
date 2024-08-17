@@ -42,7 +42,7 @@ This project aims to perform sentiment analysis on Kindle book reviews using var
 
 ### Dataset
 
-The dataset is included in the project and consists of Kindle book reviews with ratings. You can find the dataset file [here](link-to-dataset-if-available).
+The dataset is included in the project and consists of Kindle book reviews with ratings. You can find the dataset file in the repo.
 
 ## Usage
 
