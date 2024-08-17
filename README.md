@@ -37,7 +37,7 @@ This project aims to perform sentiment analysis on Kindle book reviews using var
    ```
 3. Run the Jupyter notebook:
    ```bash
-   jupyter notebook ML_Kindle_Sentiment_analysis.ipynb
+   jupyter notebook Kindle_Sentiment_analysis.ipynb
    ```
 
 ### Dataset
